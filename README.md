@@ -1,4 +1,4 @@
-#Appstore: A cloud and React based APP Purchase Platform
+# Appstore: A cloud and React based APP Purchase Platform
 
 - Designed and implemented a microserver in Go for software purchase with React JS and deployed to
 Google Cloud
